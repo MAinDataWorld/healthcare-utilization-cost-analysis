@@ -1,0 +1,32 @@
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+secrets.*
+*.pem
+*.key
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and temporary files
+.vscode/
+*.tmp
+*.bak
+~$*
+
+# Personal notes and backups
+personal_notes*
+local_config*
