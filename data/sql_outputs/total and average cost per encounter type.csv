@@ -1,0 +1,11 @@
+encounterclass,total_claim_cost,average_claim_cost
+ambulatory,12820249.77,4362.11
+wellness,1210954.33,959.55
+outpatient,972725.4,1281.59
+emergency,839173.75,3108.05
+inpatient,537447.64,9266.34
+urgentcare,160994.29,825.61
+snf,128036.17,14226.24
+hospice,90831.44,11353.93
+home,40536.32,643.43
+virtual,5200.32,650.04
